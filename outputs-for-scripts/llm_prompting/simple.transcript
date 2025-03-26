@@ -1,0 +1,52 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the GUS mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mNautBot> [0mWhat are your plots tonight?
+> I liked "Titanic"
+
+[96mNautBot> [0m If you enjoyed "Titanic," you might like movies with similar themes of romance, drama, and historical events. Here are a few recommendations:
+
+1. "The English Patient" - A sweeping romance set during World War II, this movie tells the story of a badly burned man who recounts his love affair with a married woman.
+2. "Pearl Harbor" - This movie is a historical drama that tells the story of the Japanese attack on Pearl Harbor and the love stories that intertwine with the events.
+3. "The Pianist" - A powerful true story of a Polish Jewish musician who struggles to survive the Holocaust.
+4. "Downton Abbey" - A popular TV series that follows the lives of the aristocratic Crawley family and their servants in the early 20th century.
+5. "Out of Africa" - A romantic drama set in colonial Kenya, this movie tells the story of a Danish baroness who falls in love with a free-spirited hunter.
+
+I hope you find these recommendations helpful! Let me know if you have any other preferences or if you'd like to know more about any of these movies.
+> I didn't like "Ex Machina"
+
+[96mNautBot> [0m If you didn't enjoy "Ex Machina," it's possible that you're not a fan of science fiction or movies that explore complex themes of artificial intelligence and consciousness. Here are a few movie recommendations that might be more to your liking:
+
+1. "The Social Network" - A biographical drama about the founding of Facebook, this movie explores themes of ambition, power, and betrayal.
+2. "The Wolf of Wall Street" - A dark comedy about a stockbroker who becomes wealthy through corruption and fraud, this movie is based on the true story of Jordan Belfort.
+3. "The Grand Budapest Hotel" - A whimsical comedy-drama about a hotel concierge and his lobby boy who become embroiled in a caper involving a stolen painting and a family fortune.
+4. "La La Land" - A romantic musical about a jazz pianist and an aspiring actress who fall in love while pursuing their dreams in Los Angeles.
+5. "The King's Speech" - A historical drama about King George VI of the United Kingdom, who struggles to overcome his stammer with the help of an unorthodox speech therapist.
+
+I hope these
+> Who are you?
+
+[96mNautBot> [0m I am a movie recommender chatbot, designed to help users find movies they might enjoy based on their preferences and past movie choices. I can provide recommendations for a wide variety of genres, directors, actors, and themes. I can also answer questions about movies, such as plot summaries, release dates, and awards. My goal is to make it easy and fun for you to discover new movies and learn more about the ones you already love. Is there anything specific you would like to know or discuss about movies? I'm here to help!
+> :quit
+[96mNautBot> [0mSame time tomorrow?

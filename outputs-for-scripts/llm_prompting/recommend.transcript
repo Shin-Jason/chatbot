@@ -1,0 +1,94 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the GUS mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mNautBot> [0mWhat are your plots tonight?
+> I liked "Titanic (1997)"
+
+[96mNautBot> [0m If you enjoyed "Titanic (1997)," you might like the following movies with similar themes or elements:
+
+1. "The Poseidon Adventure (1972)" - A disaster movie about a luxury ocean liner that capsizes after hitting a rogue wave.
+2. "The Perfect Storm (2000)" - A true story about a commercial fishing boat that is caught in a massive storm in the North Atlantic.
+3. "Inception (2010)" - A mind-bending sci-fi thriller about a team of thieves who enter people's dreams to steal information.
+4. "The Revenant (2015)" - A survival drama about a frontiersman who is left for dead after being mauled by a bear and must navigate the wilderness to seek revenge.
+5. "Avatar (2009)" - A visually stunning sci-fi epic about a paraplegic marine who is sent to the moon Pandora to infiltrate the native Na'vi tribe.
+6. "The Abyss (1989)" - A suspenseful underwater adventure
+> I liked "10 Things I Hate About You"
+
+[96mNautBot> [0m If you enjoyed "10 Things I Hate About You," you might like the following movies with similar themes or elements:
+
+1. "She's the Man" - A modern retelling of Shakespeare's "Twelfth Night" where a girl disguises herself as her brother to play on a boys' soccer team.
+2. "Easy A" - A high school comedy about a girl who pretends to be promiscuous to improve her social status.
+3. "The Princess Diaries" - A romantic comedy about a teenage girl who discovers she is the heir to the throne of a small European kingdom.
+4. "Clueless" - A modern retelling of Jane Austen's "Emma" set in a Beverly Hills high school.
+5. "Mean Girls" - A comedy about a new student who infiltrates a clique of popular girls in a high school.
+6. "Bring It On" - A cheerleading comedy about a high school team that must learn new routines after theirs are stolen by a rival team.
+7. "Legally Blonde" - A comedy about a sorority girl who enrolls in
+> I liked "She's the Man"
+
+[96mNautBot> [0m  If you enjoyed "She's the Man," you might like the following movies with similar themes or elements:
+
+1. "10 Things I Hate About You" - A modern retelling of Shakespeare's "The Taming of the Shrew" set in a high school.
+2. "Easy A" - A high school comedy about a girl who pretends to be promiscuous to improve her social status.
+3. "The Princess Diaries" - A romantic comedy about a teenage girl who discovers she is the heir to the throne of a small European kingdom.
+4. "Clueless" - A modern retelling of Jane Austen's "Emma" set in a Beverly Hills high school.
+5. "Mean Girls" - A comedy about a new student who infiltrates a clique of popular girls in a high school.
+6. "Bring It On" - A cheerleading comedy about a high school team that must learn new routines after theirs are stolen by a rival team.
+7. "Legally Blonde" - A comedy about a sorority girl who enrolls in Harvard Law School to win back her ex
+> I liked "Sydney White"
+
+[96mNautBot> [0m  If you enjoyed "Sydney White," you might like the following movies with similar themes or elements:
+
+1. "Ella Enchanted" - A modern retelling of the Cinderella story with a twist, where the heroine has a magical curse that makes her obey any command she is given.
+2. "The House Bunny" - A comedy about a former Playboy bunny who becomes the house mother of a sorority of misfit girls.
+3. "Wild Child" - A teen comedy about a spoiled Malibu girl who is sent to a strict English boarding school.
+4. "The DUFF" - A high school comedy about a girl who discovers she is the "Designated Ugly Fat Friend" of her group and sets out to change her image.
+5. "Stick It" - A gymnastics comedy about a rebellious teenager who is sent to a strict training camp after getting into trouble with the law.
+6. "A Cinderella Story" - A modern retelling of the Cinderella story set in a high school, where the heroine communicates with her prince charming through email.
+7. "The Sister
+> I liked "Easy A"
+
+[96mNautBot> [0m   If you enjoyed "Easy A," you might like the following movies with similar themes or elements:
+
+1. "10 Things I Hate About You" - A modern retelling of Shakespeare's "The Taming of the Shrew" set in a high school.
+2. "She's the Man" - A modern retelling of Shakespeare's "Twelfth Night" where a girl disguises herself as her brother to play on a boys' soccer team.
+3. "The DUFF" - A high school comedy about a girl who discovers she is the "Designated Ugly Fat Friend" of her group and sets out to change her image.
+4. "Mean Girls" - A comedy about a new student who infiltrates a clique of popular girls in a high school.
+5. "Clueless" - A modern retelling of Jane Austen's "Emma" set in a Beverly Hills high school.
+6. "Legally Blonde" - A comedy about a sorority girl who enrolls in Harvard Law School to win back her ex.
+7. "Sydney White" - A modern retelling of the Snow
+> yes
+
+[96mNautBot> [0m Great! I'm glad I could help. Let me know if you need any more recommendations or have any other questions. I'm here to help!
+> yeah!
+
+[96mNautBot> [0m  Sure thing! Do you have another movie you'd like me to recommend movies similar to? Or is there something else I can help you with?
+> yes
+
+[96mNautBot> [0m  Sure thing! What movie would you like me to recommend similar movies to?
+> no
+
+[96mNautBot> [0m   No problem! Is there anything else I can help you with? I'm here to answer any questions you have.
+> :quit
+
+[96mNautBot> [0mSame time tomorrow?
